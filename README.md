@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm a Web Developer passionate about crafting clean, efficient solutions. Currently working with ReactJS, TailwindCSS, and exploring cloud architecture like AWS. Committed to writing maintainable code and building accessible user experiences.<br><br>💻 Tech stack: HTML, CSS, SASS, SCSS, JavaScript, ReactJS, TailwindCSS<br><br>🌱 Learning: AWS<br><br>💬 Ask me about: Frontend Architecture, State Management Patterns<br><br>🔭 Current projects:<br> - Building a note-taking app that helps people organize their thoughts<br> - Developing an image discovery platform with API integration for browsing, downloading and saving high-quality images
+ I'm a Web Developer passionate about crafting clean, efficient solutions. Currently working with ReactJS, NodeJS, and exploring cloud architecture like AWS. Committed to writing maintainable code and building accessible user experiences.<br><br>💻 Tech stack: HTML, CSS, SASS, SCSS, JavaScript, ReactJS, TailwindCSS<br><br>🌱 Learning: AWS<br><br>💬 Ask me about: Frontend Architecture, State Management Patterns<br><br>🔭 Current projects:<br> - Building a note-taking app that helps people organize their thoughts<br> - Developing an image discovery platform with API integration for browsing, downloading and saving high-quality images
 
 
 ## 🌐 Socials:
